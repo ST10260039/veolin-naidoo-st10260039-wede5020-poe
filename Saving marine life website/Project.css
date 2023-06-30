@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    background-color:#CEDEF8;
+    box-sizing: border-box;
+    padding: 0;
+    width: 100%;
+    height: fit-content;
+
+    }
+    
+    .Header{
+
+        background-color:#276db5;
+        padding: 10px;
+       
+    }
+    .Header h1{
+        text-align: center;
+        text-decoration: none;
+        color:#333;
+        font-family: proxima-nova;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.2em;
+    }
+
+    .ProjectVid{
+        position: absolute;
+        right: 200px;
+        top: 380px;
+    }
+    .ProjectVid2{
+        position: absolute;
+        right: 200px;
+        top: 1000px;
+    }
+    .Image3{
+        position: absolute;
+        right: 850px;
+        top: 1000px;
+    }
+    .Image4{
+     position: absolute;
+     top: 1700px;
+     right: 500px;
+    }
+    .Text1{
+        position: absolute;
+        width: 70vb;
+        top: 450px;
+        right: 770px;
+    }
+    .Text1 p{
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+    }
+   /* @media(min-aspect-ratio: 16/9){
+        .backgroundvideo{
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    @media(max-aspect-ratio:16/9) {
+        .backgroundvideo{
+            width:auto;
+            height:100%;
+        }
+        
+    }*/
+    
+    /*style the nav*/
+    
+    .topnav{
+    
+        overflow: hidden;
+        background-color:#9cf;
+    }
+    
+    .topnav a{
+    float: left;
+    display: block;
+    color:#333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    
+    .topnav a:hover{
+        background-color:#276db5;
+        color:#333;
+    }
+    
+    .coloumn.middle{
+        text-align: center;
+        padding: 10px;
+        height: 900vb;
+        
+        
+    
+    }
+    .footer1{
+        background-color: #9cf;
+        padding:20px;
+        text-align: center;
+    }
+
+    .footer1 p{
+        text-align: center;
+        text-decoration: none;
+        color:#333;
+        font-family: proxima-nova;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: 1.2em;  
+    }
+
+    .footer1 H1{
+        text-align: center;
+        text-decoration: none;
+        color:#1f1e1e;
+        font-family:PT Sans;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    letter-spacing: 1.59px;
+    text-transform: uppercase;  
+    }
+    .footer1 ul li a{
+        list-style:none;
+        display: inline-block;
+       text-align: center;
+       
+        
+        
+    }
+    .icons{
+        padding: 20px;
+  
+    }
+    .signUp p{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+    text-transform: none;
+    color: black;
+    }
+    #BtnSub {
+        border-radius: 30px;
+        background-color: #276db5;
+        width: 150px;
+        height: 45px;
+       
+       
+    }
+
+
+    .footer{
+        background-color: #276db5;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .SiteInfo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgba(255,255,255,.8);
+    }
+  .Info p{
+    text-align: center;
+    text-decoration: none;
+    color:rgba(255,255,255,.9);
+    font-family: sans-serif;
+font-weight: 600;
+font-style: normal;
+font-size: 16px;
+letter-spacing: 2px;
+text-transform: uppercase;
+line-height: 1.2em; 
+ }
